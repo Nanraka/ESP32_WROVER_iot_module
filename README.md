@@ -1,6 +1,7 @@
+<img src="https://github.com/Nanraka/ESP32_WROVER_iot_module/assets/64336110/bead5d89-8143-4f17-aad9-fab2aac88c69" width="320px">
+
 # ESP32_WROVER_iot_module
 This board is ESP32 WROVER developer module.<br>
-<img src="https://github.com/Nanraka/ESP32_WROVER_iot_module/assets/64336110/bead5d89-8143-4f17-aad9-fab2aac88c69" width="320px">
 
 # Features
 Unlike other boards, this board is designed to be used for IoT applications.<br>
