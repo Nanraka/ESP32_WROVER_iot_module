@@ -14,3 +14,7 @@ Since this board is not equipped with a write IC, the following two procedures a
 3. Press the write button on the ArduinoIDE.
 4. Release the reset button.
 5. Release the boot button.
+
+# Others
+- The holes for mounting the board screws are 2 mm in diameter.
+- The size of the board is designed as same size of the battery box. This board can receive voltage supply easily by soldering battery box pins.
