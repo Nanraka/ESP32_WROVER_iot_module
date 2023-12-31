@@ -14,6 +14,8 @@ Since this board is not equipped with a write IC, the following two procedures a
 3. Press the write button on the ArduinoIDE.
 4. Release the reset button.
 5. Release the boot button.
+<img src="https://github.com/Nanraka/ESP32_WROVER_iot_module/assets/64336110/805429a1-3332-4c1d-aefe-edefb3df3df1" width="200px">
+
 
 # Others
 - The holes for mounting the board screws are 2 mm in diameter.
